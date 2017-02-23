@@ -1,0 +1,10 @@
+#pick img {
+	height: 200px;
+	width: 200px;
+	background: white;
+}
+
+body {
+	background: url("../images/starwarsbattle.jpg");
+	background-size: 100%;
+}
